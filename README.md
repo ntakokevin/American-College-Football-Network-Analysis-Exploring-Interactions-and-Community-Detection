@@ -1,13 +1,8 @@
 # American-College-Football-Network-Analysis-Exploring-Interactions-and-Community-Detection
 
-    <h1>American College Football Network Analysis</h1>
+This project focuses on analyzing the network of American football games between Division IA colleges during the Fall 2000 regular season. The dataset used in this project is sourced from the study conducted by M. Girvan and M. E. J. Newman (Proc. Natl. Acad. Sci. USA 99, 7821-7826, 2002).
 
-    <h2>Project Description</h2>
-    <p>
-        This project focuses on analyzing the network of American football games between Division IA colleges during the Fall 2000 regular season. The dataset used in this project is sourced from the study conducted by M. Girvan and M. E. J. Newman (Proc. Natl. Acad. Sci. USA 99, 7821-7826, 2002).
-    </p>
-
-    <h2>Project Tasks</h2>
+## Project Tasks
     <ol>
         <li><strong>Data Description:</strong>
             <ul>
